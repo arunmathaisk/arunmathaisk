@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)
 <!--
 **arunmathaisk/arunmathaisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
