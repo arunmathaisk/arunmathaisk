@@ -1,4 +1,5 @@
-![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)
+<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="GIF" width="300" height="300">
+
 <!--
 **arunmathaisk/arunmathaisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
