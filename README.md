@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdoY2J0MnVmaWY1enhvbTRlcGt1Y3VvNHBvdWxtcjhsdm55NWkzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="GIF" width="300" height="300">
+<img src="https://gifdb.com/images/thumb/chatgpt-pudgy-penguin-typing-computer-programming-vquc8qyjcfo6sn1v.gif" alt="GIF" width="300" height="300">
 
 <!--
 **arunmathaisk/arunmathaisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
